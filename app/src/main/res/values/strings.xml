@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Deferred DeepLink</string>
+    <string name="deep_link_test">Deep Link test!</string>
 </resources>
